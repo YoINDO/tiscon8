@@ -12,6 +12,7 @@ public enum OptionalServiceType implements CodeEnum {
 
     /** オプションサービスのラベル */
     private final String label;
+    
     /** オプションサービスのラベルのコード */
     private final int code;
 
